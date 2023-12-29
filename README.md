@@ -1,1 +1,2 @@
-# learnrepo
+# Reminder session
+watching videos again
